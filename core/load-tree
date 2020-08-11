@@ -1,0 +1,6 @@
+init
+> core
+ > core-load-paths
+  > core-ui
+  > core-init
+  > core-pkgmgr
